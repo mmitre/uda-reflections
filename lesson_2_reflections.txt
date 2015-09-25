@@ -3,3 +3,6 @@ It creates the metadata for the new repository. Otherwise, git wouldn't know how
 
 -- How is the staging area different from the working directory and the repository? What value do you think it offer?
 It allows us to group all files that were updated as part of one logical change so that they can be committed together.
+
+-- How can you use the staging area to make sure you have one commit per logical change?
+Even if you have changed other files, you can stage only those that make a specific logical change.
