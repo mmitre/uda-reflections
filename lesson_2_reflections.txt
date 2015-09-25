@@ -12,3 +12,6 @@ When creating new features or making changes that could destabilize the program.
 
 -- How do the diagrams help you visualize the branch structure?
 It shows the different branches and how they relate to each other, as well as any commits that might be lost.
+
+-- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The changes made in both branches are applied. We represent this as the latest commit in master having two parents (the last commit from each branch being merged).
