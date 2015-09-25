@@ -15,3 +15,6 @@ It shows the different branches and how they relate to each other, as well as an
 
 -- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The changes made in both branches are applied. We represent this as the latest commit in master having two parents (the last commit from each branch being merged).
+
+-- What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Merging all changes manually would get tedious very soon, and it's not necessary if changes are made to different sections in the file. That allows the developer to focus only on making sure that conflicts are dealt with appropriately
