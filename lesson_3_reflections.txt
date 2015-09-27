@@ -11,3 +11,6 @@ Clones are copies of a repository (for example, of a GitHub repository in a loca
 
 -- What is the benefit of having a copy of the last known state of the remote stored locally?
 Being able to see changes made before merging. Being able to see how changes to both branches will interact before pushing to GitHub.
+
+-- How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Mostly over email, letting people know when a file (e.g. in a drop box) has been changed.
