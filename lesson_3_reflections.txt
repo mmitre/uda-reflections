@@ -8,3 +8,6 @@ Automatic updates would not allow for a stable environment for development. Also
 Forks are copies of a repository in GitHub. Allows basing a new repository on an existing one. Links to the original.
 Branches allow making changes independently from others and merging when the changes are stable. Flags merge conflicts.
 Clones are copies of a repository (for example, of a GitHub repository in a local machine).
+
+-- What is the benefit of having a copy of the last known state of the remote stored locally?
+Being able to see changes made before merging. Being able to see how changes to both branches will interact before pushing to GitHub.
