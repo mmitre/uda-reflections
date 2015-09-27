@@ -14,3 +14,6 @@ Being able to see changes made before merging. Being able to see how changes to 
 
 -- How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Mostly over email, letting people know when a file (e.g. in a drop box) has been changed.
+
+-- When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When collaborating, you want to make changes to a branch to get it reviewed and make sure that it doesn't break the master. A bit less efficient because you have to go through some extra hoops before the changes are applied.
